@@ -3,7 +3,7 @@ class ExercisesController < ApplicationController
 
   # GET /exercises
   def index
-    @exercises = Exercise.all
+    @exercises = current_user.exercises
 
     render json: @exercises
   end
