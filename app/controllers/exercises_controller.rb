@@ -3,9 +3,9 @@ class ExercisesController < ApplicationController
 
   # GET /exercises
   def index
-    @exercises = current_user.exercises
+    @exercises = Exercise.all
 
-    render json: @exercises
+    render json: ExerciseSerializer.new(@exercises).serializable_hash[:data].map{|hash| hash[:attributes] }
   end
 
   # GET /exercises/1
