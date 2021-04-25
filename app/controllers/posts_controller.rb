@@ -5,7 +5,7 @@ class PostsController < ApplicationController
   def index
     @posts = Post.all
 
-    render json: @posts
+    render json: PostSerializer.new(@posts).serializable_hash[:data].map{|hash| hash[:attributes] }
   end
 
   # GET /posts/1
