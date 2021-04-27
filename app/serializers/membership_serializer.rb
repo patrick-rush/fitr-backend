@@ -1,4 +1,4 @@
 class MembershipSerializer
   include FastJsonapi::ObjectSerializer
-  attributes :group_id, :user_id
+  attributes :club_id, :user_id
 end
