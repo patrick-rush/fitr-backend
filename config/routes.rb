@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   resources :exercises
   resources :workouts
+  resources :clubs
   get '/current_user', to: 'current_user#index'
   devise_for :users, path: '', path_names: {
     sign_in: 'login',
