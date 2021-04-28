@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  resources :posts
+  resources :posts do
+    resources :comments, only: [:index]
+  end
   resources :exercises
   resources :workouts
   get '/current_user', to: 'current_user#index'
