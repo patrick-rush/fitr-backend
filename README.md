@@ -104,4 +104,8 @@ Brandon Marrero
 - Twitter - [@branmar97](https://twitter.com/branmar97)
 - Website - [Brandon Marrero](https://brandonmarrero.com)
 
+<<<<<<< HEAD
 [Back To The Top](#fitr-backend)
+=======
+[Back To The Top](#fitr-backend)
+>>>>>>> 304a0ee5349144f58bf7697793451615bab48acc
