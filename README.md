@@ -97,6 +97,8 @@ SOFTWARE.
 Patrick Rush
 - LinkedIn - [patrick-a-rush](https://www.linkedin.com/in/patrick-a-rush/)
 - Github - [patrick-rush](https://github.com/patrick-rush)
+- Twitter - [@PatrickARush](https://twitter.com/patrickarush)
+- Blog - [Patrick Rush](https://patrickrush.tech)
 
 Brandon Marrero
 - LinkedIn - [brandon-mar](https://www.linkedin.com/in/brandon-mar/)
@@ -104,8 +106,4 @@ Brandon Marrero
 - Twitter - [@branmar97](https://twitter.com/branmar97)
 - Website - [Brandon Marrero](https://brandonmarrero.com)
 
-<<<<<<< HEAD
 [Back To The Top](#fitr-backend)
-=======
-[Back To The Top](#fitr-backend)
->>>>>>> 304a0ee5349144f58bf7697793451615bab48acc
