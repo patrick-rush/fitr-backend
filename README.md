@@ -98,7 +98,7 @@ Patrick Rush
 - LinkedIn - [patrick-a-rush](https://www.linkedin.com/in/patrick-a-rush/)
 - Github - [patrick-rush](https://github.com/patrick-rush)
 - Twitter - [@PatrickARush](https://twitter.com/patrickarush)
-- Blog - [Patrick Rush](https://patrickrush.tech)
+- Website - [Patrick Rush](https://patrickrush.tech)
 
 Brandon Marrero
 - LinkedIn - [brandon-mar](https://www.linkedin.com/in/brandon-mar/)
